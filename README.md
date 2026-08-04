@@ -81,35 +81,6 @@ I believe software should create real value, and every project I build helps me 
 
 </div>
 
----
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhijai001&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://streak-stats.demolab.com?user=abhijai001&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijai001&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-</div>
-
----
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Abhijeet's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhijai001&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
 ## 🎓 Certifications & Virtual Experience
 
 <div align="center">
@@ -181,35 +152,6 @@ If you have an idea, a project, or just want to connect, feel free to reach out.
 
 </div>
 ---
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/abhijai001/Digi-Rakshak">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=abhijai001&repo=Digi-Rakshak&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/abhijai001/devi">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=abhijai001&repo=devi&theme=tokyonight&hide_border=true"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<a href="https://github.com/abhijai001/Data-Structures-and-Algorithms">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=abhijai001&repo=Data-Structures-and-Algorithms&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/abhijai001">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=abhijai001&repo=abhijai001&theme=tokyonight&hide_border=true"/>
-</a>
-
-</div>
-
----
 ## 🏆 Achievements
 
 - 🚀 Built and deployed a real client project (**Roaring Machines**)
@@ -219,39 +161,6 @@ If you have an idea, a project, or just want to connect, feel free to reach out.
 - ☁️ AWS Academy Cloud Foundations Certified
 - 🏅 Completed Software Engineering Job Simulations by **JPMorgan Chase** and **Deloitte**
 
----
-## 📚 Currently Learning
-
-```text
-✅ C++
-✅ Data Structures & Algorithms
-✅ Object-Oriented Programming
-✅ SQL
-✅ DBMS
-✅ Operating Systems
-✅ Computer Networks
-✅ System Design
-✅ Backend Development
-```
-
----
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=abhijai001&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&row=2&column=4"/>
-
-</div>
-
----## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=abhijai001&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&row=2&column=4"/>
-
-</div>
-
----
 <div align="center">
 
 ### ⚡ Thanks for visiting my profile!
