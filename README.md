@@ -145,14 +145,8 @@ If you have an idea, a project, or just want to connect, feel free to reach out.
 <br>
 
 ⭐ If you like my work, consider starring my repositories.
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient&customColorList=14,18,20,24"/>
-
-</div>
----
-## 🏆 Achievements
+<br>
+🏆 Achievements
 
 - 🚀 Built and deployed a real client project (**Roaring Machines**)
 - 🛡️ Developed an AI-powered cybersecurity platform (**Digi Rakshak**)
