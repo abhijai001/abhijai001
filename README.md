@@ -198,15 +198,13 @@
 🎯 Secure an SDE Internship
 ```
 
----
+# 🐍 Contribution Snake
 
-# 📈 Contribution Snake
+<div align="center">
 
-> 🐍 Coming Soon...
->
-> We'll enable the animated contribution snake in the next step using GitHub Actions.
+<img src="https://raw.githubusercontent.com/abhijai001/abhijai001/output/github-contribution-grid-snake-dark.svg"/>
 
----
+</div>
 
 <div align="center">
 
@@ -217,4 +215,30 @@ If you like my work, consider giving a ⭐ to my repositories.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,30:2563EB,70:1E3A8A,100:0F172A&height=120&section=footer"/>
 
 </div>
+---
 
+# 📊 Profile Summary
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhijai001&theme=tokyonight)
+
+</div>
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhijai001&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhijai001&theme=tokyonight)
+
+</div>
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhijai001&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhijai001&theme=tokyonight&utcOffset=5.5)
+
+</div>
+
+---
