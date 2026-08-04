@@ -146,6 +146,7 @@ If you have an idea, a project, or just want to connect, feel free to reach out.
 
 ⭐ If you like my work, consider starring my repositories.
 <br>
+---
 🏆 Achievements
 
 - 🚀 Built and deployed a real client project (**Roaring Machines**)
